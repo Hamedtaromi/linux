@@ -1,11 +1,11 @@
-#Host 1
+# Host 1
 
 
-###1-update & upgrade
+### 1-update & upgrade
 
 sudo dnf update -y
 
-###2-essential items for installing kafka
+### 2-essential items for installing kafka
 sudo dnf install -y java-17-openjdk java-17-openjdk-devel
 
 
