@@ -1,7 +1,7 @@
 # Host 1
 
 
-### 1-update & upgrade
+## 1-update & upgrade
 
 sudo dnf update -y
 
